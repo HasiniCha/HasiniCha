@@ -1,5 +1,5 @@
-# 💫 About Me:
-Software Engineering Undergraduate · University of Moratuwa
+👋 Hi, I'm Hasini!
+Software Engineering Undergraduate at University of Moratuwa 
 
 
 ## 🌐 Socials:
