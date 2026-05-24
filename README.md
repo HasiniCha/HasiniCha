@@ -1,8 +1,8 @@
-##👋 Hi, I'm Hasini!
+# 👋 Hi, I'm Hasini!
 Software Engineering Undergraduate at University of Moratuwa 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinichamodi4@gmail.com) 
 
 
