@@ -9,6 +9,3 @@ Software Engineering Undergraduate at University of Moratuwa
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hasinicha&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hasinichamodi4@gmail.com) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
